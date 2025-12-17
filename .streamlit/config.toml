@@ -1,0 +1,10 @@
+[theme]
+# Thème Chocolat personnalisé 
+primaryColor = "#8B4513"           # Marron chocolat
+backgroundColor = "#FFF8DC"         # Beige crème
+secondaryBackgroundColor = "#F5DEB3" # Blé doré
+textColor = "#2C1810"              # Marron foncé
+font = "sans serif"
+
+[server]
+headless = true
